@@ -3,3 +3,37 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+/* HEADER */
+
+a{
+    text-decoration: none;
+    padding: 10px;
+    color: black;
+}
+
+.container {
+    width: 1200px;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    width: 100%;
+    height: 70px;
+}
+
+.nav-left{
+    align-items: center;
+    display: flex
+}
+
+.button{
+    background-color: #0061FF;
+    color: white;
+}
+
+/* MAIN HEADER */
+
