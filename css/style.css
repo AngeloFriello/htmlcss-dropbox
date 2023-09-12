@@ -111,7 +111,7 @@ h1{
 
 /* SECTION-2 */
 
-.section-2 h3{
+h3{
     margin-top: 100px;
     padding-bottom: 40px;
     font-size: 30px;
@@ -253,3 +253,23 @@ border-bottom: 1px solid lightgrey;
     border: 1px solid black;
     margin-top: 30px;
 }
+
+/* SECTION-5 */
+
+.section-5 .row{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.font-mid{
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.font-low{
+    padding: 30px 0px;
+}
+
+/* SECTION-6 */
+
+
