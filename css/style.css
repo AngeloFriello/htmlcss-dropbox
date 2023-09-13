@@ -421,7 +421,8 @@ border-bottom: 1px solid lightgrey;
 /* FOOTER */
 
 footer{
-    background-color: black;    
+    background-color: black;
+    margin-top: 200px;
 }
 
 li{
@@ -432,6 +433,7 @@ footer .container-header{
     text-align: left;
     display: flex;
     justify-content: space-between;
+    padding-top: 40px;
 }
 
 footer li{
