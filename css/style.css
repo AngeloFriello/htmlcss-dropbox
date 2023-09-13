@@ -191,37 +191,31 @@ border-bottom: 1px solid lightgrey;
     margin-right: 30px;
 }
 
-
-/* SECTION-3 */ 
-
-.section-3 .top-row{
+.row-plane_bottom .top-row{
     border: 1px solid lightgray;
     text-align: center;
 }
 
-.section-3 .bottom-row{
+.row-plane_bottom .bottom-row{
     text-align: left;
     border: 1px solid lightgray;
     padding: 20px;
 }
 
-.section-3 .col-12{
+.row-plane_bottom .col-12{
     margin-top: 50px;
 }
 
-.section-3 .bottom-row{
+.row-plane_bottom .bottom-row{
     display: flex;
 }
 
-.section-3 a{
-    margin-left: 80px;
-}
-
-.section-3 .col-4{
+.row-plane_bottom .col-4{
     margin-top: 10px;
+    border: 0px;
 }
 
-.section-3 .plane-price{
+.row-plane_bottom .plane-price{
     padding-bottom: 60px;
     padding-top: 10px;
 }
